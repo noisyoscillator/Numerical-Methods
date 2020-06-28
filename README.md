@@ -16,3 +16,10 @@ Spectral Methods: Fundamentals in Single Domains
 
 [Numerical solution of the nonlinear Fredholm integral equations by positive definite functions](https://doi.org/10.1016/j.amc.2007.02.063)
 
+Euler schemes and large deviations for stochastic Volterra equations with singular kernels
+
+A Note on the Rate of Convergence of the Euler–Maruyama Method for Stochastic Differential Equations
+
+The Cox–Ingersoll–Ross model with delay and strong convergence of its Euler–Maruyama approximate solutions
+
+Strong convergence of Monte Carlo simulations of the mean-reverting square root process with jump
