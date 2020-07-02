@@ -23,3 +23,5 @@ A Note on the Rate of Convergence of the Euler–Maruyama Method for Stochastic 
 The Cox–Ingersoll–Ross model with delay and strong convergence of its Euler–Maruyama approximate solutions
 
 Strong convergence of Monte Carlo simulations of the mean-reverting square root process with jump
+
+http://people.bordeaux.inria.fr/pierre.delmoral/simulinks.html
