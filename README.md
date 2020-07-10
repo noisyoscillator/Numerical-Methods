@@ -25,3 +25,5 @@ The Cox–Ingersoll–Ross model with delay and strong convergence of its Euler�
 Strong convergence of Monte Carlo simulations of the mean-reverting square root process with jump
 
 http://people.bordeaux.inria.fr/pierre.delmoral/simulinks.html
+
+[IMP] Functional quantization-based stratified sampling methods
