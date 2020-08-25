@@ -27,3 +27,7 @@ Strong convergence of Monte Carlo simulations of the mean-reverting square root 
 http://people.bordeaux.inria.fr/pierre.delmoral/simulinks.html
 
 [IMP] Functional quantization-based stratified sampling methods
+
+Multiplicative noise, fast convolution and pricing
+
+Pitfalls of the Fourier Transform Method in Affine Models, and Remedies
